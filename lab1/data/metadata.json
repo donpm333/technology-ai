@@ -1,0 +1,70 @@
+{
+  "employee_handbook.md": {
+    "source": "employee_handbook.md",
+    "doc_type": "employee_handbook",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  },
+  "vacation_policy.docx": {
+    "source": "vacation_policy.docx",
+    "doc_type": "vacation_policy",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  },
+  "remote_work_policy_2024.pdf": {
+    "source": "remote_work_policy_2024.pdf",
+    "doc_type": "remote_work_policy",
+    "date": "2024-02-01",
+    "department": "HR",
+    "effective_from": "2024-02-01",
+    "effective_to": "2026-03-14",
+    "status": "archived",
+    "version": "1.0"
+  },
+  "remote_work_policy_2026.pdf": {
+    "source": "remote_work_policy_2026.pdf",
+    "doc_type": "remote_work_policy",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "effective_to": null,
+    "status": "current",
+    "version": "2.0"
+  },
+  "onboarding_checklist.docx": {
+    "source": "onboarding_checklist.docx",
+    "doc_type": "onboarding_checklist",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  },
+  "sick_leave_policy.md": {
+    "source": "sick_leave_policy.md",
+    "doc_type": "sick_leave_policy",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  },
+  "benefits_compensation.xlsx": {
+    "source": "benefits_compensation.xlsx",
+    "doc_type": "benefits_compensation",
+    "date": "2026-03-15",
+    "department": "HR",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  },
+  "job_directory.csv": {
+    "source": "job_directory.csv",
+    "doc_type": "job_directory",
+    "date": "2026-03-15",
+    "department": "All",
+    "effective_from": "2026-03-15",
+    "status": "current"
+  }
+}

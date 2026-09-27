@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "max_body_chars": 1500,
+  "overlap_chars": 0,
+  "document_count": 8,
+  "chunk_count": 86,
+  "strategies": {
+    "table_row": 45,
+    "section_paragraph": 41
+  },
+  "checks": {
+    "all_sources_present": true,
+    "unique_ids": true,
+    "normalized_extracted_body_coverage": true,
+    "body_size_limit": true,
+    "csv_roles_12": true,
+    "xlsx_benefits_10": true,
+    "docx_checklist_rows_7": true
+  },
+  "documents": [
+    {
+      "source": "benefits_compensation.xlsx",
+      "sha256": "35217c10d4992626e68faebf98e6d975b7dc0af20bcca7883252ada194e535b7",
+      "chunks": 26,
+      "body_chars": 6005
+    },
+    {
+      "source": "employee_handbook.md",
+      "sha256": "97a318633ec72b23b4f53b9f4586d10a1d6f76c2cfc7e515c99304105fe342ba",
+      "chunks": 8,
+      "body_chars": 5435
+    },
+    {
+      "source": "job_directory.csv",
+      "sha256": "224fb0a770591a5c730f41e18c4f54f522327e577ff0aef0eac855d57773fdcb",
+      "chunks": 12,
+      "body_chars": 8969
+    },
+    {
+      "source": "onboarding_checklist.docx",
+      "sha256": "8f28616eea05dc9ef0670ee3c068432e5740511316310388c2218efcb1c2d4e8",
+      "chunks": 13,
+      "body_chars": 4965
+    },
+    {
+      "source": "remote_work_policy_2024.pdf",
+      "sha256": "79791016d8936cae64ae4ceaa260f13c3e6a40de92a08a7b51442269bdaa1719",
+      "chunks": 7,
+      "body_chars": 3646
+    },
+    {
+      "source": "remote_work_policy_2026.pdf",
+      "sha256": "149da74db4f839f6fdf7a064d68f092a03e078b82ef63da5335da83e0f9ea325",
+      "chunks": 7,
+      "body_chars": 3888
+    },
+    {
+      "source": "sick_leave_policy.md",
+      "sha256": "e907749d53004660a5be9b7d3a9c890c8193db60d087dfeac0603526c6b444fb",
+      "chunks": 7,
+      "body_chars": 4554
+    },
+    {
+      "source": "vacation_policy.docx",
+      "sha256": "54c73cb4120aa115bb683c060716577c640be1bdd4fc216d92201c7d71417950",
+      "chunks": 6,
+      "body_chars": 3739
+    }
+  ]
+}

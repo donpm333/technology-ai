@@ -1,0 +1,15 @@
+.env
+.agents
+.codex
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Локальная БД и история чатов
+chroma_db/
+chats/
